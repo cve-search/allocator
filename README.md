@@ -4,6 +4,8 @@
 
 Software and procedure supporting the allocation of SHVI number (software and hardware vulnerability identifier) via a community portal.
 
+This software was a precursor of [vulnerability-lookup](https://vulnerability-lookup.org) and the [GCVE](https://gcve.eu/) implementation and it's now archived.
+
 # Procedure of Allocation
 
 Anyone can request a SHVI identifier as long as they register to the interface and validate their email address.
